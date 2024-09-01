@@ -21,5 +21,3 @@
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inam05&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inam05&theme=nord_dark)
