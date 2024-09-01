@@ -18,3 +18,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inam05&" alt="inam05" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inam05&show_icons=true&locale=en&layout=compact" alt="inam05" /></p>
+![](https://komarev.com/ghpvc/?username=fffaraz)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inam05&theme=nord_dark)
