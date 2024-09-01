@@ -20,4 +20,4 @@
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=nord_dark)
