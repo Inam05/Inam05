@@ -19,8 +19,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inam05&show_icons=true&locale=en&layout=compact" alt="inam05" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fffaraz&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inam05&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inam05&theme=nord_dark)
