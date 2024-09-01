@@ -17,7 +17,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inam05&theme=nord_dark" alt="inam05" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inam05&show_icons=true&locale=en&layout=compact" alt="inam05" /></p>
-
-<br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inam05&theme=nord_dark)
