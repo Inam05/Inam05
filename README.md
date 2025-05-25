@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inam05&label=Profile%20views&color=0e75b6&style=flat" alt="inam05" /> </p>
 
-- 🔭 I’m currently working on **Jtech Solutions Portfolio.**
+- 🔭 I’m currently working on **Enhance Eye Guard Software.**
 
-- 🌱 I’m currently learning **Back-end Web development.**
+- 🌱 I’m currently learning **NLP & Gen AI.**
 
 - 📫 How to reach me **inamulhassan.tech@gmail.com**
 
